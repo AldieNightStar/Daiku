@@ -1,5 +1,5 @@
 # Daiku
-Daiku - byteCode interpreter miniframework
+Daiku - byteCode interpreter miniframework for Java
 
 # What is for
 You can create your own bytecode interpreter in java as easy as breath :)
